@@ -8,19 +8,19 @@ Qubit is a specialized e-commerce platform for electronic gadgets, offering an e
 
 1. **Main**  
    <p align="center">
-      <img src="./screenshots/1.png" alt="User Login" width="400">
+      <img src="./screenshots/1.png" alt="Main page" width="400">
    </p>
    Provides secure access to user accounts with advanced password hashing techniques.
 
-2. **Paypal**  
+2. **Checkout**  
    <p align="center">
-      <img src="./screenshots/dashboard.png" alt="User Dashboard" width="400">
+      <img src="./screenshots/2.png" alt="Cart" width="400">
    </p>
    Displays a comprehensive overview of available products.
 
-3. 
+3. **Paypal**  
    <p align="center">
-      <img src="./screenshots/cart.png" alt="Cart Management" width="400">
+      <img src="./screenshots/3.png" alt="Paypal" width="400">
    </p>
    Simplifies the checkout process with a detailed cart and PayPal integration.
 
