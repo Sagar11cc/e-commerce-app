@@ -1,0 +1,12 @@
+Database Name: ecommerceapp
+
+**Admin Login Details**
+
+Email:    sagar@gmail.com
+Password: password
+
+1@gmail.com
+
+
+123
+
