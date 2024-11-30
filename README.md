@@ -1,4 +1,4 @@
-# E-commerce Web Application: Qubit
+# E-commerce Web Application: Qubit(CRUDE with paypal,login,registration)
 
 Qubit is a specialized e-commerce platform for electronic gadgets, offering an extensive catalog of laptops, desktops, smartphones, and more. With a user-friendly interface and secure payment integration, Qubit ensures a seamless shopping experience.
 
