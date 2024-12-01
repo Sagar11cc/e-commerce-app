@@ -36,3 +36,4 @@ Qubit is a specialized e-commerce platform for electronic gadgets, offering an e
 
 ## System Snapshots
 Explore additional features in the [System Snapshots](./screenshots) folder.
+---
